@@ -7,6 +7,7 @@ public class ListTest1_1 {
 	public static void main(String[] args) {
 		
 		// list ~~ changed
+		// list ~~ changed1
 		// list ~~ changed2
 		// list ~~ changed3	
 		// 자료의 갯수를 고정하지 않은 상태에서 저장하는 자료구조는 List (인터페이스)
