@@ -10,6 +10,7 @@ public class ListTest1_1 {
 		// list ~~ changed1
 		// list ~~ changed2
 		// list ~~ changed3	
+		// list ~~ changed4	
 		// 자료의 갯수를 고정하지 않은 상태에서 저장하는 자료구조는 List (인터페이스)
 		
 		// List 인터페이스를 구현한 ArrayList가 있다.
